@@ -1,6 +1,6 @@
 {
   "name": "luckwallets",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,12 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lookcoins/luckWallets"
+    "url": "https://github.com/lookcoins/luckWallets.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "exceljs": "^4.4.0",
     "genewallet": "^1.0.0"
   }
 }
